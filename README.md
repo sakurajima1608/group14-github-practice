@@ -15,5 +15,5 @@
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 24521150      | Phạm Chí Nghĩa     |[24521150](https://github.com/24521150)                 |24521150@gm.uit.edu.vn   |
 | 2      | 24521210      | Trần Duy Nguyên  |[24521210](https://github.com/sakurajima1608)         |24521210@gm.uit.edu.vn   |
-| 3      | 24521153      | Hà Hồ Bảo Ngọc    |[24521153](https://github.com/24521153)                 |24521153@gm.uit.edu.vn   |
+| 3      | 24521153      | Hà Hồ Bảo Ngọc    |[24521153](https://github.com/baongoc2810uit)                 |24521153@gm.uit.edu.vn   |
 | 4      | 24521397      | Trần Đình Phúc          |[24521397](https://github.com/24521397)   |24521397@gm.uit.edu.vn   |
