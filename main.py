@@ -24,3 +24,18 @@ def main():
         elif operator == '/':
             result = operations.divide(num1, num2)
 
+         # In kết quả
+        print("-" * 30)
+        print(f"Kết quả: {num1} {operator} {num2} = {result}")
+        print("-" * 30)
+
+        # Hỏi người dùng có muốn tiếp tục không
+        cont = input("\nBạn có muốn tính tiếp không? (y/n): ").strip().lower()
+        if cont != 'y':
+            print("Cảm ơn bạn đã sử dụng chương trình. Tạm biệt!")
+            break
+
+        if __name__ == "__main__":
+         main()
+
+
