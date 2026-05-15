@@ -13,7 +13,7 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 23520131      | Phạm Chí Nghĩa     |[24521150](https://github.com/AdamNbz)                 |24521150@gm.uit.edu.vn   |
-| 2      | 23520191      | Trần Duy Nguyên  |[24521210](https://github.com/LibraJeager)         |24521210@gm.uit.edu.vn   |
-| 3      | 23520369      | Hà Hồ Bảo Ngọc    |[24521153](https://github.com/mduy2k5)                 |24521153@gm.uit.edu.vn   |
-| 4      | 23520420      | Trần Đình Phúc          |[24521397](https://github.com/TranDaiHai2107)   |24521397@gm.uit.edu.vn   |
+| 1      | 23520131      | Phạm Chí Nghĩa     |[24521150](https://github.com/24521150)                 |24521150@gm.uit.edu.vn   |
+| 2      | 23520191      | Trần Duy Nguyên  |[24521210](https://github.com/sakurajima1608)         |24521210@gm.uit.edu.vn   |
+| 3      | 23520369      | Hà Hồ Bảo Ngọc    |[24521153](https://github.com/24521153)                 |24521153@gm.uit.edu.vn   |
+| 4      | 23520420      | Trần Đình Phúc          |[24521397](https://github.com/24521397)   |24521397@gm.uit.edu.vn   |
